@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tavisca.workshop.merchantGalaxy2.merchantTest2" tests="15" skipped="0" failures="0" errors="0" timestamp="2019-07-28T09:16:47" hostname="RENTLAPT0116" time="0.108">
+  <properties/>
+  <testcase name="canCalculateItemValue()" classname="com.tavisca.workshop.merchantGalaxy2.merchantTest2" time="0.042"/>
+  <testcase name="testForHowManyCredits1()" classname="com.tavisca.workshop.merchantGalaxy2.merchantTest2" time="0.003"/>
+  <testcase name="testForHowManyCredits2()" classname="com.tavisca.workshop.merchantGalaxy2.merchantTest2" time="0.001"/>
+  <testcase name="testForHowManyCredits()" classname="com.tavisca.workshop.merchantGalaxy2.merchantTest2" time="0.017"/>
+  <testcase name="canConvertWordsToRoman()" classname="com.tavisca.workshop.merchantGalaxy2.merchantTest2" time="0.002"/>
+  <testcase name="testForHowMuchIsWords()" classname="com.tavisca.workshop.merchantGalaxy2.merchantTest2" time="0.002"/>
+  <testcase name="canCalculateItemValue1()" classname="com.tavisca.workshop.merchantGalaxy2.merchantTest2" time="0.002"/>
+  <testcase name="canCalculateItemValue2()" classname="com.tavisca.workshop.merchantGalaxy2.merchantTest2" time="0.002"/>
+  <testcase name="canConvertRomanToNumber()" classname="com.tavisca.workshop.merchantGalaxy2.merchantTest2" time="0.0"/>
+  <testcase name="canIdentifyWordsItemsAndNumber()" classname="com.tavisca.workshop.merchantGalaxy2.merchantTest2" time="0.001"/>
+  <testcase name="testForDifferentKindsOfStatement1()" classname="com.tavisca.workshop.merchantGalaxy2.merchantTest2" time="0.003"/>
+  <testcase name="canIdentifyWordAndRoman()" classname="com.tavisca.workshop.merchantGalaxy2.merchantTest2" time="0.001"/>
+  <testcase name="testForDifferentKindsOfStatement()" classname="com.tavisca.workshop.merchantGalaxy2.merchantTest2" time="0.001"/>
+  <testcase name="canConvertRomanToNumber_2()" classname="com.tavisca.workshop.merchantGalaxy2.merchantTest2" time="0.002"/>
+  <testcase name="canConvertRomanToNumber_3()" classname="com.tavisca.workshop.merchantGalaxy2.merchantTest2" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
